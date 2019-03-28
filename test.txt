@@ -1,2 +1,3 @@
 this is the test which show the status of the git
 add a new branch
+config the .gitconfig: git config --global credential.helper store
